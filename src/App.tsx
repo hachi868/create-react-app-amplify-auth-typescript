@@ -46,8 +46,7 @@ const App = () => {
 
             <View width="100%">
               <Text>
-                Edit <code>src/App.tsx</code> and save to reload.
-                => change branch to develop.
+                add branch develop.
               </Text>
             </View>
           </Flex>
